@@ -1,11 +1,11 @@
 import React from 'react';
 
-const RegisterUserPage = () => {
+const OrderPage = () => {
     return (
         <div>
-            sg
+            Order page
         </div>
     );
 };
 
-export default RegisterUserPage;
+export default OrderPage;
